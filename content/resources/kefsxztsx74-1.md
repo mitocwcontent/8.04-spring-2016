@@ -1,0 +1,9 @@
+---
+content_type: resource
+description: ''
+file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/8-04-quantum-physics-i-spring-2016/0778ad26f0c6b3e6cf8521bdbbd5f7e6_kefsxztSX74.pdf
+file_type: application/pdf
+resourcetype: Document
+title: 3play pdf file
+uid: 0778ad26-f0c6-b3e6-cf85-21bdbbd5f7e6
+---
